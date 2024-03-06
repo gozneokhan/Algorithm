@@ -6,7 +6,7 @@ function solution(numbers) {
 // const solution = (numbers) => numbers.map((number) => number * 2)
 
 // function solution(numbers) {
-//     return numbers.reduce((a, b) => [...a, b * 2], []);
+//     return numbers.reduce((a, c) => [...a, c * 2], []);
 // }
 
 // function solution(numbers) {
