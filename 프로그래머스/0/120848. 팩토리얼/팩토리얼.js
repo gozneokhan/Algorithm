@@ -7,3 +7,17 @@ function solution(n) {
     }
     return i -1;
 }
+
+// function solution(n) {
+//     let k = 1;
+//     for(let i =1; i<12; i++){
+//         k *= i;
+//         if(k>n){
+//             return i - 1
+//         }
+//     }
+// }
+
+// function solution(n) {
+//     for(let i = 1, v = 1; true; v *= ++i) if(v > n) return --i;
+// }
